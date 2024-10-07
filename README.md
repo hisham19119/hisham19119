@@ -32,7 +32,7 @@
   <i>Let's connect and chat!</i>
   <p align='center'>
     <a href='https://hisham-portfolio-66040.web.app/' target='_blank'><img src='https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=Google-Chrome&logoColor=white'/></a>
-    <a href='https://www.linkedin.com/in/hishammohamed252002/' target='_blank'><img src='https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white'/></a>
+    <a href='https://www.linkedin.com/in/hisham-mohamed-47690123a/' target='_blank'><img src='https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white'/></a>
   </p>
 </p>
 
