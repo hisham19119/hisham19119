@@ -2,7 +2,7 @@
 <h1 align="center">Hello there, I'm Hisham Mohamed 👋</h1>
 <!-- Social badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/hishammohamed252002/" target="blank"><img src="https://img.shields.io/badge/-Hisham--Mohamed-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hishammohamed252002/" alt="Hisham Mohamed " /></a>
+  <a href="[https://www.linkedin.com/in/hisham-mohamed-47690123a/](https://www.linkedin.com/in/hisham-mohamed-47690123a/)" target="blank"><img src="https://img.shields.io/badge/-Hisham--Mohamed-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hishammohamed252002/" alt="Hisham Mohamed " /></a>
 </p>
 
 <!-- About me -->
